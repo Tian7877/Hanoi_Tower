@@ -190,7 +190,7 @@
         <mxCell id="8Xkw_pBzQrpl9iHLKD2P-92" value="1" style="ellipse;" parent="1" vertex="1">
           <mxGeometry x="455" y="575" width="30" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="aRoDKcgYvZoyDMEqq8Cw-1" value="Participant" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="aRoDKcgYvZoyDMEqq8Cw-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;Participant&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="710" y="440" width="60" height="30" as="geometry" />
         </mxCell>
       </root>

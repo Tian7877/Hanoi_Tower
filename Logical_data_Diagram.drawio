@@ -103,8 +103,8 @@
         <mxCell id="KkuY7KhvXfa_Ole0gIs6-53" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="KkuY7KhvXfa_Ole0gIs6-50">
           <mxGeometry y="78" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="KkuY7KhvXfa_Ole0gIs6-54" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="320" width="140" height="104" as="geometry" />
+        <mxCell id="KkuY7KhvXfa_Ole0gIs6-54" value="Data_Negosiasi" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="240" width="140" height="104" as="geometry" />
         </mxCell>
         <mxCell id="KkuY7KhvXfa_Ole0gIs6-55" value="Item 1" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="KkuY7KhvXfa_Ole0gIs6-54">
           <mxGeometry y="26" width="140" height="26" as="geometry" />

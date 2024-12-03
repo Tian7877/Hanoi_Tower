@@ -1,9 +1,12 @@
 ```mermaid
-pie
+gantt
     title Distribution of Departemen
-    "Dept Proyek Management" : 50
-    "Dept Finance" : 25
-    "Dept DI" : 20
-    "Dirut" : 10
-    "Dep IT" : 20
-
+    dateFormat  YYYY-MM-DD
+    section Dept Proyek Management
+    Dept Proyek Management :a1, 2024-01-01, 50%
+    section Dept Finance
+    Dept Finance :a2, 2024-01-01, 30%
+    section Dept DI
+    Dept DI :a3, 2024-01-01, 20%
+    section Dirut
+    Dirut :a4, 2024-01-01, 10%

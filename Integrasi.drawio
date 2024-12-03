@@ -1,9 +1,18 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
   <diagram name="Page-1" id="d0q2hkvAUYPFgkXvVj_q">
-    <mxGraphModel>
+    <mxGraphModel dx="2441" dy="1961" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nPdyUXhKmgQ2cQpkuZ6x-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.slideteam.net/media/catalog/product/cache/1280x720/s/a/saas_diagram_for_application_and_data_integration_slide01.jpg;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="-40" width="733.33" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="nPdyUXhKmgQ2cQpkuZ6x-2" value="Integration Back-End Diagram" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=25;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-40" width="640" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="nPdyUXhKmgQ2cQpkuZ6x-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="-50" width="750" height="560" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

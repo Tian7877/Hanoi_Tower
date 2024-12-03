@@ -5,3 +5,4 @@ pie
     "Dept Finance" : 30 #33b5ff
     "Dept DI" : 20 #00ff00
     "Dirut" : 10 #ffcc00
+

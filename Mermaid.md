@@ -4,7 +4,7 @@ graph LR
     A[Intranet Portal] --> C[Project Management Tool]
     B[Finance Management System] --> D[Payroll System]
     C[Project Management Tool] --> E[Time Tracking System]
-    B[HR Management System] --> F[Employee Performance System]
+    B[Finance Management System] --> F[Employee Performance System]
     A[Intranet Portal] --> G[Document Management System]
     F[Employee Performance System] --> H[Learning & Development System]
     

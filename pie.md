@@ -4,7 +4,7 @@ gantt
     dateFormat  YYYY-MM-DD
     axisFormat  %d
     section Rekanan
-    "Data Rekanan" :a1, 2024-01-01, 20d
+    Data Rekanan :a1, 2024-01-01, 20d
     section Verifikasi
     "Data Verifikasi" :a2, 2024-01-01, 30d
     section Pengadaan

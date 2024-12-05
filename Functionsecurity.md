@@ -5,7 +5,7 @@ flowchart LR
     A --> A3[FCS - Cryptographic Support]
     A --> A4[FDP - User Data Protection]
     A --> A5[FIA - Identification and Authentication]
-    A --> A6[FMT - Security Management]
+
     A --> A7[FPR - Privacy]
     A --> A8[FPT - Protection of TSF]
     A --> A9[FRU - Resource Utilisation]
@@ -26,8 +26,6 @@ flowchart LR
     A5 --> FIA_UAU[FIA_UAU - User Authentication]
     A5 --> FIA_UID[FIA_UID - User Identification]
 
-    A6 --> FMT_MOF[FMT_MOF - Management of Functions in TSF]
-    A6 --> FMT_MSA[FMT_MSA - Management of Security Attributes]
 
     A7 --> FPR_ANO[FPR_ANO - Anonymity]
     A7 --> FPR_PSE[FPR_PSE - Pseudonimity]

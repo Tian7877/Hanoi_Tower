@@ -1,0 +1,58 @@
+```mermaid
+flowchart TB
+    A[Security Functional Requirements]
+    A1[FAU - Security Audit]
+    A2[FCO - Communication]
+    A3[FCS - Cryptographic Support]
+    A4[FDP - User Data Protection]
+    A5[FIA - Identification and Authentication]
+    A6[FMT - Security Management]
+    A7[FPR - Privacy]
+    A8[FPT - Protection of TSF]
+    A9[FRU - Resource Utilisation]
+    A10[FTA - TOE Access]
+    A11[FTP - Trusted Path/Channels]
+
+    A --> A1
+    A --> A2
+    A --> A3
+    A --> A4
+    A --> A5
+    A --> A6
+    A --> A7
+    A --> A8
+    A --> A9
+    A --> A10
+    A --> A11
+
+    A1 --> FAU_ARP[FAU_ARP - Security Audit Automatic Response]
+    A1 --> FAU_GEN[FAU_GEN - Security Audit Data Generation]
+    A1 --> FAU_SAA[FAU_SAA - Security Audit Analysis]
+    A1 --> FAU_SAR[FAU_SAR - Security Audit Review]
+
+    A3 --> FCS_CKM[FCS_CKM - Cryptographic Key Management]
+    A3 --> FCS_COP[FCS_COP - Cryptographic Operation]
+
+    A4 --> FDP_ACC[FDP_ACC - Access Control Policy]
+    A4 --> FDP_DAU[FDP_DAU - Data Authentication]
+
+    A5 --> FIA_UAU[FIA_UAU - User Authentication]
+    A5 --> FIA_UID[FIA_UID - User Identification]
+
+    A6 --> FMT_MOF[FMT_MOF - Management of Functions in TSF]
+    A6 --> FMT_MSA[FMT_MSA - Management of Security Attributes]
+
+    A7 --> FPR_ANO[FPR_ANO - Anonymity]
+    A7 --> FPR_PSE[FPR_PSE - Pseudonimity]
+
+    A8 --> FPT_AMT[FPT_AMT - Underlying Abstract Machine Test]
+    A8 --> FPT_FLS[FPT_FLS - Fail Secure]
+
+    A9 --> FRU_FLT[FRU_FLT - Fault Tolerance]
+    A9 --> FRU_RSA[FRU_RSA - Resource Allocation]
+
+    A10 --> FTA_LSA[FTA_LSA - Limitation on Scope of Selectable Attributes]
+    A10 --> FTA_TAH[FTA_TAH - TOE Access History]
+
+    A11 --> FTP_ITC[FTP_ITC - Inter-TSF Trusted Channel]
+    A11 --> FTP_TRP[FTP_TRP - Trusted Path]

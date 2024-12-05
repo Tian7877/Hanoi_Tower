@@ -36,4 +36,18 @@ mindmap
     FTP[FTP - Trusted Path/Channels]
       FTP_ITC[FTP_ITC - Inter-TSF Trusted Channel]
       FTP_TRP[FTP_TRP - Trusted Path]
+  
+  %% Apply custom styles to increase spacing
+  style root fill:#f9f,stroke:#333,stroke-width:4px
+  style FAU fill:#cfc,stroke:#333,stroke-width:2px
+  style FCO fill:#cfc,stroke:#333,stroke-width:2px
+  style FCS fill:#cfc,stroke:#333,stroke-width:2px
+  style FDP fill:#cfc,stroke:#333,stroke-width:2px
+  style FIA fill:#cfc,stroke:#333,stroke-width:2px
+  style FMT fill:#cfc,stroke:#333,stroke-width:2px
+  style FPR fill:#cfc,stroke:#333,stroke-width:2px
+  style FPT fill:#cfc,stroke:#333,stroke-width:2px
+  style FRU fill:#cfc,stroke:#333,stroke-width:2px
+  style FTA fill:#cfc,stroke:#333,stroke-width:2px
+  style FTP fill:#cfc,stroke:#333,stroke-width:2px
 

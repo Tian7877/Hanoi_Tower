@@ -8,7 +8,6 @@ flowchart LR
 
     A --> A7[FPR - Privacy]
     A --> A8[FPT - Protection of TSF]
-    A --> A9[FRU - Resource Utilisation]
     A --> A10[FTA - TOE Access]
     A --> A11[FTP - Trusted Path/Channels]
 
@@ -33,8 +32,6 @@ flowchart LR
     A8 --> FPT_AMT[FPT_AMT - Underlying Abstract Machine Test]
     A8 --> FPT_FLS[FPT_FLS - Fail Secure]
 
-    A9 --> FRU_FLT[FRU_FLT - Fault Tolerance]
-    A9 --> FRU_RSA[FRU_RSA - Resource Allocation]
 
     A10 --> FTA_LSA[FTA_LSA - Limitation on Scope of Selectable Attributes]
     A10 --> FTA_TAH[FTA_TAH - TOE Access History]

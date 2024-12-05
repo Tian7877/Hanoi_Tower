@@ -1,29 +1,16 @@
 ```mermaid
-flowchart TB
-    A[Security Functional Requirements]
-    A1[FAU - Security Audit]
-    A2[FCO - Communication]
-    A3[FCS - Cryptographic Support]
-    A4[FDP - User Data Protection]
-    A5[FIA - Identification and Authentication]
-    A6[FMT - Security Management]
-    A7[FPR - Privacy]
-    A8[FPT - Protection of TSF]
-    A9[FRU - Resource Utilisation]
-    A10[FTA - TOE Access]
-    A11[FTP - Trusted Path/Channels]
-
-    A --> A1
-    A --> A2
-    A --> A3
-    A --> A4
-    A --> A5
-    A --> A6
-    A --> A7
-    A --> A8
-    A --> A9
-    A --> A10
-    A --> A11
+flowchart LR
+    A[Security Functional Requirements] --> A1[FAU - Security Audit]
+    A --> A2[FCO - Communication]
+    A --> A3[FCS - Cryptographic Support]
+    A --> A4[FDP - User Data Protection]
+    A --> A5[FIA - Identification and Authentication]
+    A --> A6[FMT - Security Management]
+    A --> A7[FPR - Privacy]
+    A --> A8[FPT - Protection of TSF]
+    A --> A9[FRU - Resource Utilisation]
+    A --> A10[FTA - TOE Access]
+    A --> A11[FTP - Trusted Path/Channels]
 
     A1 --> FAU_ARP[FAU_ARP - Security Audit Automatic Response]
     A1 --> FAU_GEN[FAU_GEN - Security Audit Data Generation]

@@ -43,3 +43,7 @@ flowchart LR
 
     A11 --> FTP_ITC[FTP_ITC - Inter-TSF Trusted Channel]
     A11 --> FTP_TRP[FTP_TRP - Trusted Path]
+
+    %% Communication (FCO) details
+    A2 --> FCO_NRO[FCO_NRO - Non-repudiation of Origin]
+    A2 --> FCO_NRR[FCO_NRR - Non-repudiation of Receipt]

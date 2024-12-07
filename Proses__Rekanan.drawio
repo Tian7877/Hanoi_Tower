@@ -65,6 +65,9 @@
         <mxCell id="j0rK9b8wAoZoHjjp0tZs-14" value="&lt;font face=&quot;Verdana&quot;&gt;DATA REKANAN&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="155" width="150" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="j0rK9b8wAoZoHjjp0tZs-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="70" width="600" height="430" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

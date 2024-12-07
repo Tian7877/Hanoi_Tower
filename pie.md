@@ -1,5 +1,5 @@
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': {'ganttBarHeight': 20, 'ganttBarMargin': 8, 'primaryTextColor': '#000', 'ganttBarFill': '#FFFFFF'}}}%%
+%%{init: {'theme': 'base', 'themeVariables': {'ganttBarHeight': 20, 'ganttBarMargin': 8, 'ganttBarFill': '#FFFFFF'}}}%%
 gantt
     title Bar Chart - Data Kategori
     dateFormat  YYYY-MM-DD

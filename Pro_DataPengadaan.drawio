@@ -1,9 +1,117 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="x3WNl2rzYbpr7LRXTq11">
-    <mxGraphModel>
+    <mxGraphModel dx="1588" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="e2ISj9r5LE9VtlsrosC4-1" value="PM" style="rounded=1;html=1;fillColor=#000000;fontColor=#ffffff;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="140" y="100" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e2ISj9r5LE9VtlsrosC4-2" value="DEPT. DI" style="rounded=1;html=1;fillColor=#000000;fontColor=#ffffff;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="340" y="100" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e2ISj9r5LE9VtlsrosC4-3" value="TIK" style="rounded=1;html=1;fillColor=#000000;fontColor=#ffffff;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="740" y="100" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e2ISj9r5LE9VtlsrosC4-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e2ISj9r5LE9VtlsrosC4-5" target="e2ISj9r5LE9VtlsrosC4-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2ISj9r5LE9VtlsrosC4-5" value="PM Melakukan penyusunan dan pemasukkan dokumen Pendaftaran" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="160" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="e2ISj9r5LE9VtlsrosC4-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="220" as="sourcePoint" />
+            <mxPoint x="660" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e2ISj9r5LE9VtlsrosC4-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="e2ISj9r5LE9VtlsrosC4-7" target="e2ISj9r5LE9VtlsrosC4-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2ISj9r5LE9VtlsrosC4-7" value="&lt;font face=&quot;Verdana&quot;&gt;Dirut Memberi keputusan Proyek dilanjutkan ataupun tidak&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="260" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="e2ISj9r5LE9VtlsrosC4-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e2ISj9r5LE9VtlsrosC4-10" target="e2ISj9r5LE9VtlsrosC4-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2ISj9r5LE9VtlsrosC4-10" value="&lt;font face=&quot;Verdana&quot;&gt;DI Memeriksa kelengkapan data dan kelayakan proyek&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="170" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="e2ISj9r5LE9VtlsrosC4-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e2ISj9r5LE9VtlsrosC4-12" target="e2ISj9r5LE9VtlsrosC4-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2ISj9r5LE9VtlsrosC4-12" value="&lt;font face=&quot;Verdana&quot;&gt;DI Meminta File ataupun data yang kurang&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="270" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="e2ISj9r5LE9VtlsrosC4-14" value="&lt;font face=&quot;Verdana&quot;&gt;TIK memindahkan Data ke laman Data Pengadaan atau Rekapan Proyek Gagal&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="565" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="e2ISj9r5LE9VtlsrosC4-15" value="&lt;font face=&quot;Verdana&quot;&gt;DATA PENGADAAN&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="170" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="e2ISj9r5LE9VtlsrosC4-16" value="DIRUT" style="rounded=1;html=1;fillColor=#000000;fontColor=#ffffff;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="540" y="100" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e2ISj9r5LE9VtlsrosC4-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="e2ISj9r5LE9VtlsrosC4-18" target="e2ISj9r5LE9VtlsrosC4-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2ISj9r5LE9VtlsrosC4-18" value="&lt;font face=&quot;Verdana&quot;&gt;DI Meminta keputusan kepada Dirut&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="370" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="e2ISj9r5LE9VtlsrosC4-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="e2ISj9r5LE9VtlsrosC4-21" target="e2ISj9r5LE9VtlsrosC4-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2ISj9r5LE9VtlsrosC4-21" value="&lt;font face=&quot;Verdana&quot;&gt;TIK Melakukan pengecekan error pada data ataupun file terkair&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="385" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="e2ISj9r5LE9VtlsrosC4-22" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="e2ISj9r5LE9VtlsrosC4-14" target="e2ISj9r5LE9VtlsrosC4-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="460" as="sourcePoint" />
+            <mxPoint x="470" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e2ISj9r5LE9VtlsrosC4-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e2ISj9r5LE9VtlsrosC4-23" target="e2ISj9r5LE9VtlsrosC4-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2ISj9r5LE9VtlsrosC4-23" value="PM Melakukan penyusunan dan pemasukkan dokumen Prakualifikasi" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="260" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="e2ISj9r5LE9VtlsrosC4-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e2ISj9r5LE9VtlsrosC4-24" target="e2ISj9r5LE9VtlsrosC4-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2ISj9r5LE9VtlsrosC4-24" value="PM Melakukan penyusunan dan pemasukkan dokumen Proposal" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="360" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="e2ISj9r5LE9VtlsrosC4-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="e2ISj9r5LE9VtlsrosC4-25" target="e2ISj9r5LE9VtlsrosC4-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="315" y="502" />
+              <mxPoint x="315" y="205" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e2ISj9r5LE9VtlsrosC4-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="e2ISj9r5LE9VtlsrosC4-25" target="e2ISj9r5LE9VtlsrosC4-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2ISj9r5LE9VtlsrosC4-25" value="PM Mengajukan pengecekan kelayakan kepada Dept DI" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="465" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="e2ISj9r5LE9VtlsrosC4-31" value="DOKUMEN" style="rounded=1;html=1;fillColor=#000000;fontColor=#ffffff;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="920" y="100" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e2ISj9r5LE9VtlsrosC4-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="e2ISj9r5LE9VtlsrosC4-33" target="e2ISj9r5LE9VtlsrosC4-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="608" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e2ISj9r5LE9VtlsrosC4-33" value="PM Mengajukan pemindahan&amp;nbsp;&lt;div&gt;data sesuai keputusan proyek dari Dirut&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="570" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="e2ISj9r5LE9VtlsrosC4-39" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="60" width="1040" height="630" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

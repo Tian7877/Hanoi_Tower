@@ -17,7 +17,7 @@ mindmap
 
     Pelatihan Keamanan untuk Pengguna
 
-    Penanganan Insiden Keamanan
+   
 
     Cadangan dan Pemulihan Bencana
 

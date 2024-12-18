@@ -1,15 +1,15 @@
 ```mermaid
 mindmap
   root((Kebijakan Internal))
-    "1. Menentukan Akses Aplikasi\nhanya dari dalam jaringan internal perusahaan LAPI-ITB"
-    "2. Peningkatan Pengetahuan\ndalam Menjaga Kerahasiaan Aset Informasi\noleh Seluruh Pekerja PT LAPI-ITB"
-    "3. Penerapan Akuntabilitas\ndalam Mengelola Informasi Milik PT LAPI-ITB"
-    "4. Menanamkan Kesadaran Informasi\ndalam Kerja Sama dengan Mitra"
-    "5. Menjaga Keamanan Informasi\nkepada Seluruh Pimpinan dan Pekerja"
-    "6. Menanamkan Pengamanan\nAdministratif, Teknis, dan Fisik"
-    "7. Melaksanakan Audit Internal\nuntuk Memantau Kinerja"
-    "8. Mengembangkan dan Mengimplementasikan\nKebijakan Keamanan Infrastruktur Jaringan"
-    "9. Manajemen Insiden\n(Incident Management)"
-    "10. Kepatuhan dan Regulasi\n(Compliance and Regulatory Requirements)\nRegulasi Indonesia dan Internasional"
-    "11. Pengujian Penetrasi\ndan Analisis Keamanan Kode"
-    "12. Melindungi Aplikasi Perusahaan\ndan Berbagai Sistem"
+    Menentukan Akses Aplikasi\nhanya dari dalam jaringan internal perusahaan LAPI-ITB
+    Peningkatan Pengetahuan\ndalam Menjaga Kerahasiaan Aset Informasi\noleh Seluruh Pekerja PT LAPI-ITB
+    Penerapan Akuntabilitas\ndalam Mengelola Informasi Milik PT LAPI-ITB
+    Menanamkan Kesadaran Informasi\ndalam Kerja Sama dengan Mitra
+    Menjaga Keamanan Informasi\nkepada Seluruh Pimpinan dan Pekerja
+    Menanamkan Pengamanan\nAdministratif, Teknis, dan Fisik
+    Melaksanakan Audit Internal\nuntuk Memantau Kinerja
+    Mengembangkan dan Mengimplementasikan\nKebijakan Keamanan Infrastruktur Jaringan
+    Manajemen Insiden\n(Incident Management)
+    Kepatuhan dan Regulasi\n(Compliance and Regulatory Requirements)\nRegulasi Indonesia dan Internasional
+    Pengujian Penetrasi\ndan Analisis Keamanan Kode
+    Melindungi Aplikasi Perusahaan\ndan Berbagai Sistem

@@ -1,6 +1,6 @@
 ```mermaid
 mindmap
-  root((Kebijakan Internal))
+    root((Kebijakan Internal))
     "1. Menentukan Akses Aplikasi hanya dari dalam jaringan internal perusahaan LAPI-ITB"
     "2. Peningkatan Pengetahuan dalam Menjaga Kerahasiaan Aset Informasi oleh Seluruh Pekerja PT LAPI-ITB"
     "3. Penerapan Akuntabilitas dalam Mengelola Informasi Milik PT LAPI-ITB"

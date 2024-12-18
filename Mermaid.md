@@ -1,6 +1,6 @@
 ```mermaid
 mindmap
-  root((Area Kebijakan))
+  root((Area Kebijakan Requirement))
     Kebijakan Keamanan Informasi
 
     Pengelolaan Akses Pengguna
@@ -17,7 +17,7 @@ mindmap
 
     Pelatihan Keamanan untuk Pengguna
 
-   
+    Penanganan Insiden
 
     Cadangan dan Pemulihan Bencana
 

@@ -1,6 +1,6 @@
 ```mermaid
 mindmap
-  root((Area Kebijakan Require))
+  root((Kebijakan))
     Kebijakan Keamanan Informasi
 
     Pengelolaan Akses Pengguna

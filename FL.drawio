@@ -1,9 +1,51 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
-  <diagram name="Page-1" id="7BymyUCHLTWIqWfmktaX">
-    <mxGraphModel>
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net">
+  <diagram name="PongGame UML" id="diagram123">
+    <mxGraphModel dx="800" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+
+        <!-- Class Diagram for PongGame -->
+        <mxCell id="class1" value="PongGame" style="swimlane;align=center;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;" vertex="1" parent="1">
+          <mxGeometry x="50" y="50" width="300" height="400" as="geometry" />
+        </mxCell>
+
+        <mxCell id="class1_attributes" value="&#xA;Attributes:&#xA;- screen: pygame.display&#xA;- clock: pygame.time.Clock&#xA;- paddle1_x, paddle1_y: int&#xA;- ball_x, ball_y: int&#xA;- score1, score2: int" style="text;align=left;spacingLeft=10;verticalAlign=top;" vertex="1" parent="class1">
+          <mxGeometry width="300" height="120" as="geometry" />
+        </mxCell>
+
+        <mxCell id="class1_methods" value="&#xA;Methods:&#xA;+ __init__()&#xA;+ draw_paddles()&#xA;+ move_paddles(keys)&#xA;+ move_ball()&#xA;+ reset_ball()&#xA;+ run()" style="text;align=left;spacingLeft=10;verticalAlign=top;" vertex="1" parent="class1">
+          <mxGeometry y="130" width="300" height="250" as="geometry" />
+        </mxCell>
+
+        <!-- Flowchart for __init__ -->
+        <mxCell id="init_flow" value="Flowchart: __init__" style="swimlane;fontStyle=1;align=center;horizontal=1;childLayout=stackLayout;startSize=30;" vertex="1" parent="1">
+          <mxGeometry x="400" y="50" width="300" height="400" as="geometry" />
+        </mxCell>
+
+        <mxCell id="init_steps" value="Start&#xA;Initialize screen&#xA;Set paddle positions&#xA;Initialize ball properties&#xA;Set score to 0&#xA;End" style="text;align=left;spacingLeft=10;" vertex="1" parent="init_flow">
+          <mxGeometry width="300" height="370" as="geometry" />
+        </mxCell>
+
+        <!-- Flowchart for move_paddles -->
+        <mxCell id="move_paddles_flow" value="Flowchart: move_paddles" style="swimlane;fontStyle=1;align=center;horizontal=1;childLayout=stackLayout;startSize=30;" vertex="1" parent="1">
+          <mxGeometry x="50" y="500" width="300" height="400" as="geometry" />
+        </mxCell>
+
+        <mxCell id="move_paddles_steps" value="Start&#xA;Check key pressed:&#xA; - W/S for paddle1&#xA; - UP/DOWN for paddle2&#xA;Move paddles&#xA;Restrict movement&#xA;End" style="text;align=left;spacingLeft=10;" vertex="1" parent="move_paddles_flow">
+          <mxGeometry width="300" height="370" as="geometry" />
+        </mxCell>
+
+        <!-- Flowchart for move_ball -->
+        <mxCell id="move_ball_flow" value="Flowchart: move_ball" style="swimlane;fontStyle=1;align=center;horizontal=1;childLayout=stackLayout;startSize=30;" vertex="1" parent="1">
+          <mxGeometry x="400" y="500" width="300" height="400" as="geometry" />
+        </mxCell>
+
+        <mxCell id="move_ball_steps" value="Start&#xA;Move ball (x, y)&#xA;Check for collisions:&#xA; - Wall&#xA; - Paddles&#xA;Update ball direction&#xA;Update scores if needed&#xA;End" style="text;align=left;spacingLeft=10;" vertex="1" parent="move_ball_flow">
+          <mxGeometry width="300" height="370" as="geometry" />
+        </mxCell>
+
       </root>
     </mxGraphModel>
   </diagram>
